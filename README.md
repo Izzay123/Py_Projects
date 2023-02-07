@@ -1,3 +1,3 @@
-# Py_Projects
+# Py_Scripts
 
-Chapter test/assignments completed from PCC. Also some fun projects from SL
+Fun projects
